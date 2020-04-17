@@ -15,7 +15,7 @@ Aass: 25.0%
 缺点: 
 无法实现 像'Aa x aa' 这样的生成
 '''
-def big(fa, mo):
+def generate(fa, mo):
     result = []
     fa_num = -1
     mo_num = -1
